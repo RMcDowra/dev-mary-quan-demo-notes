@@ -29,6 +29,4 @@ Dynamic IP
 - A dynamic IP is the complete opposite of a static IP. It does change and it is not used for companies nor is it tied to certain person.
 - Dynamic IP is used consumer devices such as phones, personal computers, etc.
 
-
-
-
+When it comes to dev-mary having a static IP is useful because if the app was actually published into the real world, having a constant non changing IP would make it easier for people to access and not have to worry about IP changing and possibly messing up gaining access to the app.
