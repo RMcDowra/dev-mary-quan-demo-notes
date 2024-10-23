@@ -30,3 +30,9 @@ Dynamic IP
 - Dynamic IP is used consumer devices such as phones, personal computers, etc.
 
 When it comes to dev-mary having a static IP is useful because if the app was actually published into the real world, having a constant non changing IP would make it easier for people to access and not have to worry about IP changing and possibly messing up gaining access to the app.
+
+----
+# Questions
+
+- When is it best to use a static or dynamic IP? Does it matter?
+- Would there ever be a use for physical servers in current times? 
